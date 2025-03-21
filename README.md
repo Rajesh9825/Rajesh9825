@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I'm [Rajesh Gajengi]!
+# Hi there 👋, I'm Rajesh Gajengi!
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Machine Learning & Data Analytics Projects**
 - 🌱 I’m currently learning **Advanced ML & DSA**
 - 💬 Ask me about **Python, SQL, Power BI, Machine Learning**
-- 📫 How to reach me: **[Gajengi9825@gmail.com]**
+- 📫 How to reach me: **Gajengi9825@gmail.com**
 - ⚡ Fun fact: I love solving DSA problems on LeetCode!
 
 ---
@@ -49,10 +49,14 @@ Here are some ideas to get you started:
 
 ---
 ## 📊 GitHub Stats
+---
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh9825&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=Rajesh9825&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh9825&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh9825&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Rajesh9825&theme=radical&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh9825&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -70,6 +74,6 @@ Here are some ideas to get you started:
 ---
 ## 📫 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="www.linkedin.com/in/rajesh-gajengi-525940322"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Rajesh9825"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
