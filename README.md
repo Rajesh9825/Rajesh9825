@@ -87,3 +87,6 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/rajesh-gajengi-525940322"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/Rajesh9825"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
+
+
+![snake gif](https://github.com/Rajesh9825/Rajesh9825/blob/output/github-snake-dark.svg)
