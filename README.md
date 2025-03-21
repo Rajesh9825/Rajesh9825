@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gajengi9825&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=gajengi9825&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajengi9825&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh9825&show_icons=true&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Rajesh9825&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh9825&layout=compact&theme=radical"/>
 </p>
 
 ---
