@@ -13,40 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi, I'm [Your Name]!
 
-### 🚀 About Me
-- 🔄 Transitioning from Associate Senior Engineer to Machine Learning Engineer  
-- 🎓 Background: Electronics & Telecommunication Graduate  
-- 🧠 Learning & building projects in NLP, Computer Vision, and Deep Learning  
-- 💻 Skills: Python, OpenCV, Pandas, NumPy, Flask, Machine Learning  
-- 📊 Passionate about solving real-world problems with AI  
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=ml&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=ai&logoColor=white)
-
-### 📌 Latest Projects
-- 📝 [IMDb Sentiment Analysis](#)  
-- 📈 [E-commerce Customer Analysis](#)  
-- 📚 [Book Recommendation System](#)  
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rajesh-gajengi-525940322)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 # Hi there 👋, I'm Rajesh Gajengi!
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Machine Learning & Data Analytics Projects**
-- 🌱 I’m currently learning **Advanced ML & DSA**
-- 💬 Ask me about **Python, SQL, Power BI, Machine Learning**
-- 📫 How to reach me: **Gajengi9825@gmail.com**
-- ⚡ Fun fact: I love solving DSA problems on LeetCode!
+### 🚀 About Me
+- 🔄 Former Associate Senior Engineer with a strong analytical background, now specializing in Machine Learning, NLP, and Computer Vision.
+- 🎓 Background: Electronics & Telecommunication Graduate  
+- 🧠 Learning & building projects in NLP, Computer Vision, and Deep Learning  
+- 💻 Skills: Python, OpenCV, Pandas, NumPy, Flask, Machine Learning  
+- 📊 Passionate about solving real-world problems with AI
+- 🤓 Fun Fact: I love exploring AI solutions for real-world problems and can spend hours debugging without realizing it!
+- 🔍 Currently Exploring: Deep Learning & MLOps 🚀
+
+
+### 📌 Latest Projects
+- 📝 [Customer Churn Prediction End to End ML Project](https://github.com/Rajesh9825/Customer-Churn-Prediction-ML)  
+- 📈 [IMDB Movie Reviews Sentiment Analysis](https://github.com/Rajesh9825/IMDB-Reviews-Sentiment-Analysis)  
+- 📚 [Book Recommendation System](https://github.com/Rajesh9825/book_recommender_system)  
+
 
 ---
 ## 🛠 Tech Stack
