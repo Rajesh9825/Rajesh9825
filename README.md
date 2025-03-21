@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ---
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajesh9825&theme=radical"/>
 </p>
 
 ---
