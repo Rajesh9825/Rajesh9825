@@ -13,6 +13,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm [Your Name]!
+
+### 🚀 About Me
+- 🔄 Transitioning from Associate Senior Engineer to Machine Learning Engineer  
+- 🎓 Background: Electronics & Telecommunication Graduate  
+- 🧠 Learning & building projects in NLP, Computer Vision, and Deep Learning  
+- 💻 Skills: Python, OpenCV, Pandas, NumPy, Flask, Machine Learning  
+- 📊 Passionate about solving real-world problems with AI  
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=ml&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=ai&logoColor=white)
+
+### 📌 Latest Projects
+- 📝 [IMDb Sentiment Analysis](#)  
+- 📈 [E-commerce Customer Analysis](#)  
+- 📚 [Book Recommendation System](#)  
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rajesh-gajengi-525940322)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 # Hi there 👋, I'm Rajesh Gajengi!
 
