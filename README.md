@@ -59,8 +59,6 @@ Here are some ideas to get you started:
 
 ---
 ## 📊 GitHub Stats
----
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajesh9825&show_icons=true&theme=radical" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=Rajesh9825&theme=radical&hide_border=true" width="48%"/>
@@ -82,17 +80,15 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
+---
+## 📫 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Rajesh9825"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
 
 
 ![snake gif](https://github.com/Rajesh9825/Rajesh9825/blob/output/github-snake-dark.svg)
 
-
----
-## 🔥 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=red&style=plastic"/>
-</p>
 
 
