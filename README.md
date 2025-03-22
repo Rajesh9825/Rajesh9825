@@ -90,4 +90,14 @@ Here are some ideas to get you started:
 </p>
 
 
+
 ![snake gif](https://github.com/Rajesh9825/Rajesh9825/blob/output/github-snake-dark.svg)
+
+
+---
+## 🔥 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=red&style=plastic"/>
+</p>
+
+
