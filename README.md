@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 - 🔄 Former Associate Senior Engineer with a strong analytical background, now specializing in Machine Learning, NLP, and Computer Vision.
 - 🎓 Background: Electronics & Telecommunication Graduate  
-- 🧠 Learning & building projects in NLP, Computer Vision, and Deep Learning  
+- 🧠 Learning & building projects in Machine learning, NLP, Computer Vision, and Deep Learning  
 - 💻 Skills: Python, OpenCV, Pandas, NumPy, Flask, Machine Learning  
 - 📊 Passionate about solving real-world problems with AI
 - 🤓 Fun Fact: I love exploring AI solutions for real-world problems and can spend hours debugging without realizing it!
