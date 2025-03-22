@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+![snake gif](https://github.com/Rajesh9825/Rajesh9825/blob/output/github-snake-dark.svg)
+
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajesh9825&show_icons=true&theme=radical" width="48%"/>
@@ -88,7 +92,6 @@ Here are some ideas to get you started:
 </p>
 
 
-![snake gif](https://github.com/Rajesh9825/Rajesh9825/blob/output/github-snake-dark.svg)
 
 
 
