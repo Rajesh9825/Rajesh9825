@@ -66,7 +66,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajesh9825&show_icons=true&theme=radical" width="48%"/>
   
-  <img src="https://streak-stats.demolab.com?user=Rajesh9825&theme=radical&hide_border=true" width="48%"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajesh9825&theme=radical&hide_border=true)
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh9825&layout=compact&theme=radical" width="48%"/>
