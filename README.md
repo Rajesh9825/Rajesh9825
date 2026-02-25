@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there 👋, I'm Rajesh Gajengi!
+# Hi there 👋, I'm Rajesh !
 
 ### 🚀 About Me
 - 🔄 Former Associate Senior Engineer with a strong analytical background, now specializing in Machine Learning, NLP, and Computer Vision.
